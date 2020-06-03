@@ -11,12 +11,14 @@ Simple Node Weather Forecast
 
 Make an account on OpenWheather
 
-Edit main.js on "line 4" with your OpenWeather ID
+Edit main.js on "line 4" with your OpenWeather ID.
+
 Example:
 
 > const yourId = "yourID-example-0123..." <br>
 
 Check the weather from any city you want.
+
 Example:
 
 > $ node main.js berlin <br>
