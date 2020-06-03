@@ -1,6 +1,6 @@
 # What Weather
 
-Simple Node WeatherCLI 
+Simple Node Weather Forecast
 
 ### How to use 
 
